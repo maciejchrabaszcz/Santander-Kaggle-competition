@@ -1,0 +1,1 @@
+Day 2: Trained my lightGBM model on 5 folds and used mean of anwsers from all folds which happened to improve score. Still trying to evaluate more features. Also visited my old chatbot with seq2seq model.
